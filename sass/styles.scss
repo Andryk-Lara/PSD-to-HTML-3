@@ -1,0 +1,16 @@
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.principalImage{
+    img{
+        width: 100%;
+    }
+}
+@import "./generals/header";
