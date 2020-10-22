@@ -11,9 +11,55 @@
     padding-left: 2.8%;
     padding-right: 2.8%;
 }
+
 .packages-box{
     width: 27.63%;
     float: left;
     margin-left: 2.7%;
     margin-bottom: 52px;
+    position: relative;
+    a{
+        color: white;
+        text-decoration: none;
+        opacity: 1;
+    }
+    img{
+        width: 100%;
+    }
+}
+
+p.info-first{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+    opacity: 0.7;
+    background-color: black;
+    position: absolute;
+    bottom: -32px;
+    right: 0%;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+p.more-info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: absolute;
+    left: 35%;
+    bottom: 0;
+    color: white;
+    opacity: 0.7;
+}
+p.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+    opacity: 0.7;
+    background-color: black;
+    position: absolute;
+    bottom: -32px;
+    right: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
