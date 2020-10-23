@@ -1,0 +1,63 @@
+@media (max-width: 700px){
+    /*HEADER*/
+    .header-logo{
+        margin-right: 25.59%;
+    }
+    .header-accordeon{
+        padding-top: 20px;
+        a{
+            font-size: 12px;
+        }
+    }
+    .accordeon{
+        font-size: 14px;
+    }
+    /*PACKAGES*/
+    .packages-title{
+        font-size: 20px;
+    }
+    .packages-box{
+        width: 50%;
+        margin-left: 25%;
+    }    
+    p.info-first{
+        font-size: 16px;
+        bottom: -13px;
+    }
+    p.info{
+        font-size: 16px;
+        bottom: -13px;
+    }
+    p.more-info{
+        font-size: 10px;
+    }
+    /*INFORMATION*/
+    .information-icons{
+        display: none;
+    }
+    .information-text{
+        width: 90%;
+        top: 0px;
+        left: 5%;
+        padding-right: 0;
+        h2{
+            font-size: 25px;
+        }
+        p{
+            font-size: 12px;
+        }
+    }
+    /*FOOTER*/
+    .footer-section1{
+        padding-top: 1px;
+        a{
+            font-size: 10px;
+        }
+    }
+    .footer-section3{
+        padding-bottom: 1px;
+        p{
+            font-size: 8px;
+        }
+    }
+}

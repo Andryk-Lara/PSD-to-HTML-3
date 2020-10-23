@@ -1,11 +1,8 @@
-.information{
-    padding-bottom: 0;
-}
+
 div.information-image{
     position: relative;
     img{
         width: 100%;
-        padding-bottom: 0;
     }
 }
 .information-icons{
@@ -13,17 +10,17 @@ div.information-image{
     position: absolute;
     left: 0;
     padding-left: 19.3%;
-    padding-top: 250px;
+    top: 200px;
     img{
         width: 100%;
     }
 }
 
 .information-text{
-    width: 37.84%;
+    width: 40.84%;
     position: absolute;
     right: 0px;
-    padding-top: 120px;
+    top: 30px;
     padding-right: 10.41%;
     h2{
         width: 100%;
